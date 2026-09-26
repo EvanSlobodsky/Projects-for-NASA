@@ -1,0 +1,560 @@
+<! DOCTYPE html>
+<html>
+  <head>
+    <title> Learn to play minecraft </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <h1 class="minecraft"> Learn to play minecraft </h1>
+
+    <h2> Overworld </h2>
+    
+    <h4> Welcome to the overworld, you will meet a lot of cool things in the world, from chickens to giant caves and nether portals.
+    </h4>
+    
+    <p> In the over world you will see...</p>
+    <ul>
+      <li> biomes </li>
+      <li> mobs </li>
+      <li> underground/water caves </li>
+      <li> stuctures and treaure </li>
+      <li> ores </li>
+      <li> And more </li>
+    </ul>
+    <h2> Overworld biomes </h2>
+    
+    <h4> The overworld has plenty of biomes that contains unique features, below you will see a list of every biome in the overworld and its unique features. </h4>
+    
+    <p> Temperate & Grassland Biomes </p>
+    <ul>
+      <li> Plains: Flat, grassy, home to villages, horses, sheep.</li>
+      <li>Sunflower Plains: Plains with sunflowers.</li>
+      <li> Meadow: Flower-filled plains, often near mountains, with bees.</li>
+      <li>Forest: Oak/birch trees, flowers.</li>
+      <li>Flower Forest: Densely packed with flowers.
+      </li>
+      <li>Dark Forest: Dense canopy, mushrooms, Woodland Mansions.
+      </li>
+      <li>Birch Forest: Dominated by birch trees. 
+      </li>
+    </ul>
+    
+    <p> Cold & Snowy Biomes </p>
+    <ul>
+      <li>Taiga: Spruce trees, wolves, foxes.</li>
+      <li>Old Growth Taiga (Spruce/Pine): Ancient, giant spruce/pine trees.
+      </li>
+      <li>Snowy Plains: Snow-covered, igloos, rabbits, polar bears.
+      </li>
+      <li>Ice Spikes: Tall ice formations.
+      </li>
+      <li>Grove: Snowy, forested, steep slopes.
+      </li>
+      <li> Frozen Peaks/Jagged Peaks: High, icy mountains.
+      </li>
+      <li>Snowy Slopes: Gentle snowy hills. 
+      </li>
+    </ul>
+    
+    <p> Arid & Desert Biomes </p>
+    <ul>
+      <li>Desert: Sand, cacti, desert temples, villages.
+      </li>
+      <li>Badlands (Mesa): Terracotta, colorful clay, canyons.
+      </li>
+      <li> Wooded Badlands: Badlands with oak/spruce trees.
+      </li>
+      <li>Savanna: Acacia trees, tall grass, villages. 
+      </li>
+    </ul>
+    <p>Jungle & Forested Biomes</p>
+
+    <ul>
+      <li>Jungle: Dense trees, vines, parrots, jungle temples.
+      </li>
+      <li>Bamboo Jungle: Bamboo forests, pandas.
+      </li>
+      <li> Sparse Jungle: Less dense jungle. 
+      </li>
+    </ul>
+    
+    <p>Wetland Biomes
+    </p>
+    <ul>
+      <li>Swamp: Lily pads, slimes, witches, oak trees.
+      </li>
+      <li>Mangrove Swamp: Mangrove trees, unique wood.
+      </li>
+      <li>Mushroom Fields (Mushroom Island): Mycelium, giant mushrooms, Mooshrooms. 
+      </li>
+    </ul>
+    <p> Mountain Biomes</p>
+    <ul>
+      <li>Stony Peaks: Rocky, snow-dusted peaks.</li>
+      <li> Windswept Hills/Gravelly/Forest: Varied rocky/grassy slopes. 
+      </li>
+    </ul>
+    <p>Ocean Biomes
+    </p>
+    <ul>
+      <li>Ocean (Warm/Lukewarm/Cold): Various depths, coral, fish.
+      </li>
+      <li>Deep Oceans: Deeper variants.
+      </li>
+    </ul>
+    
+    <h2> Overworld mobs </h2>
+    <h4> In the overworld there are a lot of mobs, some are common and passive like sheep, pigs, cows, and chikens, while others can be rare a very dangerous like the warden. Below are the main mobs you will find in the overworld...</h4>
+    
+    <p>Passive Mobs (Harmless)</p>
+
+    <ul>
+      <li> Cow/Mooshroom: Grasslands/Mushroom Fields, drops Leather, Beef (food), Milk (buckets), Mushroom Stew (Mooshroom).
+      </li>
+      <li> Pig/Hoglin: Grasslands/Crimson Forests (Hoglin), drops Porkchops (food).
+      </li>
+      <li> Sheep/Donkey/Llama/Mule/Horse/Skeleton Horse/Zombie Horse: Grasslands/Plains, drops Wool (dye, beds), Mutton, unique mounts, drops.
+      </li>
+      <li> Chicken: Grasslands/Forests, drops Feathers, Eggs, Chicken meat.
+      </li>
+      <li> Rabbit: Deserts/Taiga, drops Rabbit Hide, Rabbit's Foot (potions).
+      </li>
+      <li>Fish (Cod, Salmon, Pufferfish, Tropical Fish): Oceans/Rivers, drops Fish (food), Pufferfish (poison), Ink Sacs (Squid).
+      </li>
+      <li> Bat: Caves, drops nothing useful (mostly for atmosphere).
+      </li>
+      <li> Frog/Tadpole: Swamps/Mangroves, drops Froglights (unique dyes).
+      </li>
+      <li>Axolotl: Lush Caves, drops Bucket (for carrying), useful for fishing.
+      </li>
+      <li>Turtle: Beaches/Oceans, drops Sea Turtle Shell (respiratory potion ingredient), Scutes. 
+      </li>
+    </ul>  
+    <p>Neutral Mobs (Provoked to Attack)</p>
+    <ul>
+      <li> Wolf: Forests/Taiga, tame with bones for a pet/combat companion; drops Wolf Pelts (rarely), Bones.
+      </li>
+      <li>Spider (Daytime): Spawns at night but often becomes neutral in daylight, drops String, Spider Eyes.
+      </li>
+      <li>Enderman: Overworld (any dimension), drops Ender Pearls (teleportation, eyes of ender).
+      </li>
+    </ul>
+    <p>Hostile Mobs (Attack on Sight)
+    </p>
+    <ul>
+      <li>Witch: Can spawn near Witch Huts in swamps and other places with low light levels, drops  Gunpowder, Redstone, Sugar, sometimes potions, etc.
+      </li>
+      <li> Creeper: Spawns in dark areas (night/caves), drops Gunpowder (for TNT, Firework Rockets).
+      </li>
+      <li> Zombie: Common at night/caves, drops Rotten Flesh (food/compost), Carrots/Potatoes, Iron Ingots.
+      </li>
+      <li>Skeleton: Common at night/caves, drops Bones (bone meal, arrows), Arrows, Bow.
+      </li>
+      <li>Spider: Spawns at night/caves, drops String (wool, bow), Spider Eyes (potions).
+      </li>
+      <li> Drowned: Spawns in oceans/rivers, drops Copper Ingots, Gold Ingots, Tridents (rare), Potatoes.
+      </li>
+    </ul>
+
+    
+  
+    
+    <h2> Overworld structures </h2>
+    <h4> In the overworld, you will find plenty of structures from peaceful villages to dangerous ancient cities. Below you will see the structures you could possible find. </h4>
+    <p> Above-Ground Structures </p>
+    <ul>
+      <li> Village/Abandoned Village: Towns with villagers, farms, houses; abandoned ones have zombified villagers.
+      </li>
+      <li> Woodland Mansion: Large dark oak mansions in Dark Forests with Evokers & Vindicators.
+      </li>
+      <li>Pillager Outpost: Tower with Pillagers, tents, loot, and cages; found in many biomes.
+      </li>
+      <li>Desert Pyramid (Temple): Sandstone pyramid in Deserts with TNT traps and gold/diamond loot.
+      </li>
+      <li>Jungle Temple: Stone brick temple in Jungles with lever puzzles, dispensers, and chests.
+      </li>
+      <li>Igloo: Snowy biome huts with a basement containing a cured zombie villager.
+      </li>
+      <li> Swamp Hut: Witch's hut in swamps, spawning witches and containing potion ingredients.
+      </li>
+      <li>Ruined Portal: Partially broken Nether portals found in many biomes, offering early-game resources.
+      </li>
+      <li>Desert Well: Small sandstone wells in deserts, mostly decorative.
+      </li>
+      <li>Trail Ruins: Stone brick/terracotta structures with buried pottery shards and useful items. 
+      </li>
+    </ul>
+    <p> Underground Structures </p>
+    <ul>
+      <li>Trial Chamber (New in 1.21): Copper-filled corridors with "Trial Spawners" that spawn mobs for rewards (Vaults, Ominous Vaults, Armor Trims, Music Discs).
+      </li>
+      <li>Ancient City: Deep underground structure in the Deep Dark biome with Sculk, Wardens, and valuable loot (Echo Shards, Swift Sneak enchant).
+      </li>
+      <li>Abandoned Mineshaft: Wooden tunnels with minecarts, chests (often with enchanted apples), and cave spiders.
+      </li>
+      <li> Stronghold: Underground stone structures containing portals to the End.
+      </li>
+      <li>Dungeon (Monster Room): Small, mossy cobblestone rooms with a spawner and a chest. 
+      </li>
+    </ul>
+    <p> Underwater Structures </p>
+    <ul>
+      <li>Ocean Monument: Large prismarine structures with Guardians and Elder Guardians.
+      </li>
+      <li> Ocean Ruins: Buried cobblestone/sandstone ruins with loot, often guarded by Drowned.
+      </li>
+      <li> Shipwreck: Sunken ship on beaches/ocean floors with chests and buried treasure maps. 
+      </li>
+    </ul>
+
+    <h2> villages </h2>
+    <h4> Village are one of the most usefull structures, where diamond armor, tools and other valuable items are easily obtainable. You will learn about specific villagers and what they trades/sell below. </h4>
+    
+    <p>Employed villagers </p>
+    <li>Armorer: Uses the Blast Furnace. They buy coal and iron, and sell various iron, chainmail, and enchanted diamond armor pieces and shields at higher levels.
+    </li>
+    <li>Butcher: Uses the Smoker. They buy raw meats (beef, chicken, porkchop, etc.) and dried kelp blocks, and sell cooked meats, sweet berries, and rabbit stew.
+    </li>
+    <li> Cartographer: Uses the Cartography Table. They buy paper and sell empty maps, ocean and woodland explorer maps, banner patterns, and glass panes.
+    </li>
+    <li>Cleric: Uses the Brewing Stand. They buy rotten flesh, gold ingots, nether warts, and rabbit's feet, and sell redstone dust, lapis lazuli, ender pearls, and Bottles o' Enchanting.
+    </li>
+    <li>Farmer: Uses the Composter. They buy crops (wheat, carrots, potatoes, etc.) and sell bread, pumpkin pie, cookies, cakes, and golden carrots.
+    </li>
+    <li>Fisherman: Uses the Barrel. They buy raw fish and string, and sell cooked fish, campfires, enchanted fishing rods, and buckets of fish.
+    </li>
+    <li>Fletcher: Uses the Fletching Table. They buy sticks, flint, feathers, and string, and sell arrows (including tipped arrows), bows, and crossbows.
+    </li>
+    <li> Leatherworker: Uses the Cauldron. They buy leather, rabbit hides, and flint, and sell leather armor, leather horse armor, and saddles.
+    </li>
+    <li>Librarian: Uses the Lectern. They buy paper and books, and sell bookshelves, name tags, and various enchanted books (including Mending).
+    </li>
+    <li>Mason (Stonemason): Uses the Stonecutter. They buy clay balls, stone, and various stone blocks (andesite, granite, diorite), and sell bricks, chiseled stone bricks, and other decorative stone blocks and glazed terracotta.
+    </li>
+    <li> Shepherd: Uses the Loom. They buy colored wool and dyes, and sell colored wool, carpets, banners, and paintings.
+    </li>
+    <li> Toolsmith: Uses the Smithing Table. They buy coal, iron, gold, and diamonds, and sell stone and iron tools, and enchanted iron and diamond tools at higher levels.
+    </li>
+    <li>Weaponsmith: Uses the Grindstone. They buy coal, iron, and diamonds, and sell iron and diamond swords and axes, including enchanted versions. 
+    </li>
+    <p> Unemployed villagers </p>
+    <ul>
+      <li>Unemployed: A villager without a job site block. They can adopt any profession by interacting with an unclaimed job site block.
+      </li>
+      <li>Nitwit: This villager wears a distinct green robe and cannot acquire a profession or trade any items. 
+      </li>
+    </ul>
+
+    
+    
+    <h2> Caves and how to go caving </h2>
+    <h4> Caves are a efficient and dangerous way to find underground structures and valuable ores like gold and diamond. Below you will see proper items neccassart for caving. In caves you will run into mobs that spawn in the dark, undergroud structures, and ores.</h4>
+    <p> Essential items for caving. </p>
+    <ul>
+      <li>Iron  gear and tools, shield, and a bow. </li>
+      <li> Water bucket, stack of blocks and food. </li>
+      <li> 3 stacks of torches and arrows. </li>
+      <li> Furnace and a Crafting table. </li>
+    </ul>
+    <h4> Having these items, will help you to cave safely and efficiently. </h4>
+    <h2> Overworld Ores</h2>
+    <h4> In the overworld you will find different ores, that have different uses and different spots for finding wether it's up in the mountains in the sky like emeralds, or deep underground, underlava like diamonds. Below is a list of all minecraft overworld ores.</h4>
+    
+    <p> Coal Ore
+    </p>
+    <ul>
+      <li> Optimal Y-Level: Y=96. It is found anywhere between Y=0 and Y=320, but is most abundant in mountain biomes.
+      </li>
+      <li> Main Use: Smelting fuel, crafting torches, and creating fire charges.
+      </li>
+    </ul>
+      
+    <p>Copper Ore
+    </p>
+    <ul>
+      <li>Optimal Y-Level: Y=48. It generates between Y=-16 and Y=112 and is more common in Dripstone Caves biomes.
+      </li>
+      <li>Main Use: Crafting spyglasses, lightning rods, and various copper building blocks (which can oxidize over time).
+      </li>
+    </ul>
+ 
+    <p>Iron Ore
+    </p>
+      <ul>
+        <li>Optimal Y-Level: Y=15 (deep underground) or Y=232 (mountains). It spans a wide range from Y=-64 to Y=320.
+        </li>
+        <li>Main Use: Crafting durable tools, weapons, and armor (an early-mid game staple), buckets, shields, and minecarts.
+        </li>
+      </ul>
+      
+    <p>Gold Ore
+    </p>
+      <ul>
+        <li>Optimal Y-Level: Y=-16. It's found from Y=-64 to Y=32. In the Badlands biome, it's abundant from Y=32 to Y=256.
+        </li>
+        <li>Main Use: Crafting golden apples, glistering melons, gilded blackstone, highly enchantable but low-durability tools/armor, and decorative blocks.
+        </li>
+      </ul>
+      
+    <p>Lapis Lazuli Ore
+    </p>
+      <ul>
+        <li> Optimal Y-Level: Y=0. It spawns between Y=-64 and Y=64.
+        </li>
+        <li>Main Use: Used as a dye and is essential for enchanting items at an enchanting table.
+        </li>
+      </ul>
+      
+    <p>Redstone Ore
+    </p>
+      <ul>
+        <li>Optimal Y-Level: Y=-59. It generates between Y=-64 and Y=16.
+        </li>
+        <li>Main Use: The core component for all automation, engineering, and complex redstone contraptions and mechanisms in the game.
+        </li>
+      </ul>
+      
+    <p>Diamond Ore
+    </p>
+      <ul>
+        <li>Optimal Y-Level: Y=-59. It is found from Y=-64 to Y=16, becoming more common the deeper you go.
+        </li>
+        <li>Main Use: Crafting the highest tier of standard tools, weapons, and armor, which offer the best durability and protection before Netherite.
+        </li>
+      </ul>
+      
+    <p>Emerald Ore
+    </p>
+      <ul>
+        <li>Optimal Y-Level: Y=236 (in mountains). This ore only spawns in mountain biomes and generates between Y=-16 and Y=320.
+        </li>
+        <li>Main Use: Primarily used as currency for trading with villagers to obtain various items and blocks. 
+        </li>
+      </ul>
+    
+    <h2>Spawn</h2>
+
+    <h4> You will always spawn in the overworld. Where ever you spawn in the overworld, that is your spawn point. If you later in the game craft a compass, it will always point to the spawn point. Most of the time the game places you in a safe place. But once in a while you will spawn in lava or somewhere else. </h4>
+
+    <p> Here are the steps to do when you first spawn... </p>
+    <ol>
+      <li> If you spawn in lava, or somewhere else that is unsafe, just die and delete your world. Then make a new world because it is nearly imposible to survive if you spawn in lava or some other unsafe place. </li>
+      <li> If you spawn in a very limited biome, I recommend make a new world, for example in the badland biome there are no resources or food, but it is large to travel in and mobs spawn at night wich is dangerous. Deserts might be limited, but there are villages which can provide resources. </li>
+      <li> If you spawn under water, just swim out onto the land, it is not a problem. </li>
+      <li> When you spawn, find a tree and collect about 5-10 wood logs by mining them with your fist. Craft planks, crafting table, sticks, a wooden sword, and a wooden pickaxe. </li>
+      <li> Find and mine 17 blocks of stone to get cobblestone. Craft the following item: Stone sword, axe, shovel, pickaxe, and a furnace. </li>
+      <li> Hunt down some animals, you will need meet and three blocks of wool, a sheep drops one block of wool when defeated. Craft a bed so you can sleep at night. Cook the meat in a furnace to eat, use planks as fuel. </li>
+      <li> Sleep in your bed when night falls to avoid hostile mobs that spawn at night. </li>
+    </ol>
+    <h4> Following these steps, you will be prepared for your adeventures in the overworld. Below are images of all the neccasary tools. </h4>
+    <img src="Screenshot-2025-12-16-8.27.03-AM.png" alt="How to craft planks" />
+    <h6> How to craft planks </h6>
+    <h6> By Evan Slobodsky - CC0 </h6>
+    <img src="Screenshot-2025-12-16-8.27.18-AM.png" alt="How to craft a crafting table" />
+    <h6> How to craft a crafting table </h6>
+    <h6> By Evan Slobodsky - CC0 </h6>
+    <img src="Screenshot-2025-12-16-8.28.45-AM.png" alt="How to craft a wooden pickaxe" />
+    <h6> How to craft a wooden pickaxe </h6>
+    <h6> By Evan Slobodsky - CC0 </h6>
+    <img src="Screenshot-2025-12-16-8.28.54-AM.png" alt="How to craft a wooden axe" />
+    <h6> How to craft a wooden axe </h6>
+    <h6> By Evan Slobodsky - CC0 </h6>
+    <img src="Screenshot-2025-12-16-8.28.20-AM.png" alt="How to craft a wooden sword" />
+    <h6> How to craft a wooden sword </h6>
+    <h6> By Evan Slobodsky - CC0 </h6>
+    <img src="Screenshot-2025-12-16-8.28.05-AM.png" alt="How to craft a wooden shovel" />
+    <h6> How to craft a wooden shovel </h6>
+    <h6> By Evan Slobodsky - CC0 </h6>
+    
+    <h2> Nether </h2>
+    <h4> The nether is a very harsh demension, filled with lava, hostile mobs, and dangerous structures. But visiting the nether is required to progress in the game and take on powerful bosses like the wither and the ender dragon. While in the nether, you will probably collect a lot of valuable items. </h4>
+    <h2> Nether biomes </h2>
+    <h4> The nether contains 5 unique biomes containing its own unique features and dangers. </h4>
+    <p>Nether Wastes:
+    </p>
+    <ul>
+      <li>Features: The most common biome, filled with netherrack, lava pools, glowstone, and occasional gravel/soul sand.
+      </li>
+      <li> Mobs: Ghasts, Zombified Piglins, Piglins, Magma Cubes, Striders, Endermen.
+      </li>
+      <li>Resources: Nether Quartz, Gold Ore, Ancient Debris.
+      </li>
+    </ul>
+    
+    <p>Crimson Forest:
+    </p>
+    <ul>
+      <li>Features: Huge red fungi trees, crimson nylium, weeping vines, shroomlights.
+      </li>
+      <li>Mobs: Hoglins (food source, but dangerous), Piglins, Zombified Piglins.
+      </li>
+      <li>Resources: Crimson stems (fireproof wood), valuable for building.
+      </li>
+    </ul>
+    
+    <p>Warped Forest:
+    </p>
+    <ul>
+      <li> Features: Blue/turquoise fungi, warped nylium, nether sprouts, warping wart blocks.
+      </li>
+      <li>Mobs: Endermen, Striders (lava-crossing creatures).
+      </li>
+      <li> Resources: Warped stems (fireproof), great for end pearl collection due to fewer threats.
+      </li>
+    </ul>
+    
+    <p>Soul Sand Valley:
+    </p>
+    <ul>
+      <li> Features: Abundant soul sand/soil, slowing movement, soul fire, bone blocks, ghasts, skeletons.
+      </li>
+      <li>Mobs: Skeletons, Ghasts, Phantom blocks.
+      </li>
+      <li> Resources: Soul Sand/Soil, valuable for blue fire/soul fire mechanics.
+      </li>
+    </ul>
+    
+    <p>Basalt Deltas:
+    </p>
+    <ul>
+      <li>Features: Volcanic, ash-filled, jagged terrain with basalt pillars, magma blocks, blackstone.
+      </li>
+      <li> Mobs: Magma Cubes.
+      </li>
+      <li>Resources: Basalt, Blackstone (great building blocks), Magma Cream. 
+      </li>
+    </ul>
+       
+    <h2> Nether mobs </h2>
+    <h4> An the nether you will find a lot of mobs, most of them are hostile and powerful, but they are neccassry to defeat in order to progress in the game. </h4>
+    
+    <p> Hostile Mobs (Attack on Sight) </p>
+    <ul>
+      <li> Ghast: Large, flying, shoots fireballs; found in most biomes.
+      </li>
+      <li> Blaze: Shoots fireballs, found in Nether Fortresses.
+      </li>
+      <li>Magma Cube: A Nether slime; found in Nether Wastes, Basalt Deltas.
+      </li>
+      <li>Wither Skeleton: Wields stone swords, causes Wither effect; found in Nether Fortresses.
+      </li>
+      <li> Piglin Brute: Heavily armored, wields an axe; found in Bastion Remnants.
+      </li>
+      <li>Zoglin: A zombified Hoglin, drops nothing useful; found in Crimson Forests (rare).
+      </li>
+      <li> Skeleton: Shoots arrows; unique to Soul Sand Valleys. 
+      </li>
+      <li>Hoglin: Large boar-like creature, drops pork; found in Crimson Forests. 
+      </li>
+    </ul>
+    
+    <p> Neutral Mobs (Attack if Provoked) </p>
+    <ul>
+      <li> Piglin: Wears gold, trades, attacks if not wearing gold; found in Wastes, Crimson, Warped biomes.
+      </li>
+      <li> Enderman: Teleports, drops Ender Pearls; found in most biomes.
+      </li>
+      <li> Zombified Piglin: Neutral until attacked; found in all biomes, often in large groups.
+      </li>  
+    </ul>
+    
+    <p> Passive Mobs (Non-Aggressive)
+    </p>
+    <ul>
+      <li>Strider: Walks on lava, can be ridden with a saddle; found in all biomes on lava. 
+      </li>
+    </ul>
+    
+    <h2> Nether structures </h2>
+    <h4> The nether doesn't have a lot of structures, but some of the nether structures are really dangerous, and could be even deadly. Watch out when visiting a dnagerous one. </h4>
+    <p> Nether Structures </p>
+    <ul>
+      <li>Nether Fortress: A large, dark brick structure with lava, Blaze spawners, Nether Wart farms, and Wither Skeletons.
+      </li>
+      <li>Bastion Remnant: A blackstone structure, home to Piglins and Piglin Brutes, with different types like bridges, stables, and treasure rooms.
+      </li>
+      <li>Nether Fossil: Made of bone blocks, resembling giant skeletons, found in the Soul Sand Valley.
+      </li>
+      <li> Ruined Portal: Incomplete Overworld portals, often with gold blocks and a chest, found scattered throughout the Nether. 
+      </li>
+    </ul>
+    
+    <h2> Nether ores </h2>
+    <h4> Nether ore can be found all over the nether and can be very useful. All ores have unique uses. Learn more about each ore below.</h4>
+    <p>Nether Quartz Ore </p>
+    <ul>
+      <li>Found: Y=10 to 117 (common around Y=15-16) in all Nether biomes, especially Nether Wastes.
+      </li>
+      <li>Use: Smelts into Nether Quartz, used for Quartz Blocks, Redstone Comparators, Observers, Pistons, and more.
+      </li>
+    </ul>
+    
+    <p> Nether Gold Ore</p>
+    <ul>
+      <li> Found: Y=10 to 117 (common around Y=15-16) in all Nether biomes, especially Nether Wastes.
+      </li>
+      <li>Use: Drops Gold Nuggets (2-6), smelted into Gold Ingots for Golden Apples, Carrots, Powered Rails, Netherite, etc..
+      </li>
+    </ul>
+    
+    <p>Ancient Debris</p>
+    <ul>
+      <li>Found: Y=8 to 22 (highest concentration at Y=15).
+      </li>
+      <li> Use: Smelts into Netherite Scraps, combined with Gold Ingots to make Netherite Ingots, used for upgrading diamond gear to Netherite. 
+      </li>
+    </ul>
+    
+    
+    <h2> Respawning in the nether. </h2>
+    <h4>To respawn in the Nether in Minecraft, you must craft and use a Respawn Anchor, a special block that sets your spawn point (unlike beds, which explode there); you charge it with Glowstone, right-click it to set your point, and each death uses one charge, so keep it fueled for multiple respawns. 
+    </h4>
+    <p> How to Use a Respawn Anchor:
+    </p>
+    <ol>
+      <li>Crafting: In a crafting table, arrange six blocks of Crying Obsidian (top/bottom) and one Glowstone (center) to make the anchor. 
+      </li>
+      <li>Placement: Place the anchor anywhere in the Nether where you want your spawn point to be. 
+      </li>
+      <li>Charging: Right-click the anchor with Glowstone blocks to charge it (up to four charges). The anchor will light up and show its charge level. 
+      </li>
+      <li>Setting Spawn: Right-click the charged anchor again (with an empty hand or non-Glowstone item) to set your spawn point. 
+      </li>
+      <li>Respawning: When you die in the Nether, you'll respawn at the anchor, and one charge will be used. If it runs out, you'll respawn at the Overworld spawn. 
+      </li>
+    </ol>
+    <h2> The end </h2>
+    <h4> The End is a dark, space-like dimension in Minecraft that is widely considered the final challenge of the game. To reach it, players must activate a special portal found within a hidden underground structure called a stronghold.</h4>
+    <p> Overview of The End</p>
+    <ul>
+      <li> Appearance: The dimension consists of a main island and many smaller outer islands made primarily of End stone, all floating above a bottomless void under a static, starless purple sky.
+      </li>
+      <li>Inhabitants: The main island is primarily inhabited by Endermen and the Ender Dragon, the game's final boss. Shulkers, which reside in End cities found on the outer islands, are also present.
+      </li>
+      <li> Gameplay Mechanics: Standard Overworld items like compasses and clocks do not work correctly in the End. Attempting to use a bed or a respawn anchor will cause a powerful explosion, making them useful for damaging the dragon but dangerous for the player.
+      </li>
+    </ul>
+    <p> The primary goal in the End is to defeat the Ender Dragon.</p>
+
+    <h4>Entering the exit portal after defeating the dragon cues the game's End Poem and credits, which feature a long, philosophical dialogue between two entities. This sequence concludes the main game "adventure," after which the player respawns in the Overworld.
+    </h4>
+    <h4> The End remains accessible, and defeating the dragon also generates End Gateway portals, providing access to the outer islands where players can find End cities, valuable loot like elytra (for gliding), and chorus fruit. The dragon can also be respawned indefinitely using four End Crystals if players wish to fight it again for more experience or gateways.
+    </h4>
+
+    <h2> Bosses </h2>
+    <h3 class="Dragon"> Ender Dragon </h3>
+    <h4 class="Drag"> The Ender Dragon is the iconic final boss of Minecraft, appearing as a massive, black-scaled dragon with glowing purple eyes that dominates the End dimension's central island. It possesses 200 health points (100 hearts) and attacks players with swooping charges, fireballs, and a damaging purple breath attack. The battle is a multi-phase engagement where players must first destroy the ender crystals atop the obsidian pillars, which continuously heal the dragon via a white beam. Once all crystals are gone, the dragon is vulnerable, periodically swooping down to the central portal where players can land critical hits, ideally to its head for full damage. Upon its defeat, the dragon ascends and disintegrates in a spectacular light show and explosion, dropping 12,000 experience points (enough to reach level 68). This aftermath activates a bedrock exit portal to the Overworld, spawns a rare dragon egg, and generates a one-block wide end gateway portal to the outer End islands, opening up exploration of End cities and the search for the valuable Elytra item. </h4>
+
+    <h3 class="Wither"> Wither </h3>
+    <h4 class="with">The Wither is a formidable, player-summoned boss in Minecraft, appearing as a floating, three-headed skeletal monster that darkens the surrounding sky. It boasts significant health (300 HP in Java Edition, up to 600 HP in Bedrock) and inflicts the debilitating "Wither" status effect with its explosive black and blue skulls, which, unlike poison, can kill the player. The battle is a destructive affair, as the Wither is a "terrain-destroyer" that breaks any non-bedrock block it touches or that is hit by its blue skulls, forcing players into a dynamic fight, often deep underground to minimize damage to the world. Once its health drops to half, it gains "wither armor," becoming immune to projectiles and requiring melee attacks to finish the fight, sometimes summoning Wither Skeletons for aid in Bedrock Edition. Upon its defeat, the Wither explodes one last time in Bedrock Edition, drops 500 experience points, and, most importantly, the coveted Nether Star, the essential ingredient for crafting a beacon.
+    </h4>
+    <h3 class="Warden"> Warden </h3>
+    <h4 class="ward"> The Warden is a massive, blind hostile mob in Minecraft, nearly four blocks tall, that appears in the Deep Dark biome when sculk shriekers are activated by vibrations. It boasts the highest health of any mob in the game, with 500 health points (250 hearts), and deals devastating damage both through powerful melee attacks that disable shields and a ranged sonic boom attack that bypasses all armor and blocks. The battle against a Warden is designed as a "natural disaster" to be avoided rather than confronted directly, as its immense strength and ability to inflict the "Darkness" effect on players makes direct combat extremely difficult. If a player manages to defeat the Warden, the aftermath is intentionally anticlimactic, offering only five experience points and a single sculk catalyst block as a drop to discourage players from fighting it as a conventional boss.
+    </h4>
+
+
+
+
+  </body>
+</html>

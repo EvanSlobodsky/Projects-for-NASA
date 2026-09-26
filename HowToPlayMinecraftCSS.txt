@@ -1,0 +1,85 @@
+.minecraft {
+  text-align: center;
+  color: greenyellow;
+  font-size: 70px;
+  font-family: Cursive;
+  background-color: green;
+  border: 20px ridge;
+  border-color: darkgreen;
+}
+
+h2{
+  font-size: 40px;
+  color: green;
+  text-align: center;
+}
+
+.wither {
+  font-size: 50px;
+  color: dimgrey;
+}
+
+.dragon {
+  font-size: 50px;
+  color: purple;
+}
+.warden {
+  font-size: 50px;
+  color: darkblue;
+}
+
+body{
+  background-color: lightskyblue;
+}
+
+p{
+  font-family:cursive;
+  font-size:20px;
+}
+
+li{
+  font-size:17px;
+  font-family:monospace;
+  color:darkgoldenrod
+}
+
+.drag {
+  font-family:cursive;
+  font-size:20px;
+  color:purple;
+}
+.with {
+  font-family:cursive;
+  font-size:20px;
+  color:dimgrey;
+}
+
+.ward {
+  font-family:cursive;
+  font-size:20px;
+  color:darkblue;
+}
+
+ img {
+  width: 500px;
+  height: 300px;
+  border: ridge;
+  border-color: firebrick;
+}
+
+h6{
+  font-size: 15px;
+  font-family:cursive;
+  color: darkcyan;
+}
+
+
+
+
+
+
+
+
+
+
+
